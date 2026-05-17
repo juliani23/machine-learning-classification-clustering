@@ -1,78 +1,68 @@
-\# Machine Learning Classification and Clustering Project
+# Machine Learning Classification and Clustering Project
 
-
-
-\## About Project
-
-
+## About Project
 
 This project was developed as part of the Dicoding Machine Learning course submission.
 
+The project focuses on implementing machine learning techniques for both classification and clustering tasks, including PCA, Decision Tree, Random Forest, and hyperparameter tuning.
 
+## Project Overview
 
-The project covers both classification and clustering techniques including PCA, Decision Tree, Random Forest, and hyperparameter tuning.
+This project contains several machine learning workflows such as:
 
+- Data clustering
+- Classification modeling
+- PCA dimensionality reduction
+- Decision Tree modeling
+- Random Forest exploration
+- Hyperparameter tuning
 
+The trained models are saved in `.h5` format for further evaluation and usage.
 
-\## Project Structure
-
-
+## Project Structure
 
 data/ → dataset files
 
+notebooks/ → notebooks for machine learning experiments
 
+models/ → trained machine learning models
 
-notebooks/ → machine learning notebooks
+outputs/ → evaluation results and visualizations
 
+## Technologies Used
 
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- Matplotlib
+- Jupyter Notebook
 
-models/ → trained models
+## Workflow
 
+1. Data Preparation
+2. Data Preprocessing
+3. Exploratory Data Analysis
+4. Clustering
+5. Classification
+6. PCA Implementation
+7. Model Evaluation
+8. Hyperparameter Tuning
 
+## Files
 
-outputs/ → visualizations and evaluation results
+- clustering.ipynb → clustering workflow notebook
+- classification.ipynb → classification workflow notebook
+- decision_tree_model.h5 → Decision Tree trained model
+- PCA_model_clustering.h5 → PCA clustering model
+- tuning_classification.h5 → tuned classification model
+- explore_randomforest_classification → Random Forest exploration
 
-
-
-\## Technologies Used
-
-
-
-\- Python
-
-\- Scikit-Learn
-
-\- TensorFlow
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-
-
-\## Topics Covered
-
-
-
-\- Classification
-
-\- Clustering
-
-\- PCA
-
-\- Decision Tree
-
-\- Random Forest
-
-\- Hyperparameter Tuning
-
-
-
-\## Author
-
-
+## Author
 
 Juliani Leony Putri Melati Manalu
 
+Informatics Engineering Student
+
+Interested in AI Engineering and Machine Learning
