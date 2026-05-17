@@ -2,7 +2,7 @@
 
 ## About Project
 
-This project was developed as part of the Dicoding Machine Learning course submission.
+This project was developed as part of the [Dicoding Machine Learning course submission](https://www.dicoding.com/academies/184-belajar-machine-learning-untuk-pemula).
 
 The project focuses on implementing machine learning techniques for both classification and clustering tasks, including PCA, Decision Tree, Random Forest, and hyperparameter tuning.
 
